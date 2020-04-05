@@ -7,4 +7,4 @@ Part 1 : https://medium.com/@yunusmuhammad007/python-data-science-pandas-part-1-
 
 Part 2 : https://medium.com/@yunusmuhammad007/python-data-science-pandas-part-2-838797f00a96 
 
-Part 3 : ..
+Part 3 : https://medium.com/@yunusmuhammad007/python-data-science-pandas-part-3-17ebaa7763bf
