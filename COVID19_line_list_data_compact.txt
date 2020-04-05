@@ -1,0 +1,1086 @@
+	REPORTING_DATE	LOCATION	COUNTRY	GENDER	AGE	DEATH	RECOVERED
+0	1/20/2020	Shenzhen, Guangdong	China	male	66.0	0	0
+1	1/20/2020	Shanghai	China	female	56.0	0	0
+2	1/21/2020	Zhejiang	China	male	46.0	0	0
+3	1/21/2020	Tianjin	China	female	60.0	0	0
+4	1/21/2020	Tianjin	China	male	58.0	0	0
+5	1/21/2020	Chongqing	China	female	44.0	0	0
+6	1/21/2020	Sichuan	China	male	34.0	0	0
+7	1/21/2020	Beijing	China	male	37.0	0	0
+8	1/21/2020	Beijing	China	male	39.0	0	0
+9	1/21/2020	Beijing	China	male	56.0	0	0
+10	1/21/2020	Beijing	China	female	18.0	0	0
+11	1/21/2020	Beijing	China	female	32.0	0	0
+12	1/21/2020	Shandong	China	male	37.0	0	0
+13	1/21/2020	Yunnan	China	male	51.0	0	0
+14	1/22/2020	Sichuan	China	male	57.0	0	0
+15	1/22/2020	Jiangxi	China	male	56.0	0	0
+16	1/22/2020	Jiangxi	China	male	50.0	0	0
+17	1/22/2020	Macau	China	female	52.0	0	0
+18	1/22/2020	Liaoning	China	male	33.0	0	0
+19	1/22/2020	Liaoning	China	male	40.0	0	0
+20	1/22/2020	Fujian	China	male	70.0	0	0
+21	1/22/2020	Guizhou	China	male	51.0	0	0
+22	1/22/2020	Shanxi	China	male		0	0
+23	1/22/2020	Sichuan	China	female	28.0	0	0
+24	1/22/2020	Sichuan	China	male	37.0	0	0
+25	1/22/2020	Sichuan	China	male	19.0	0	0
+26	1/22/2020	Ningxia	China	male	29.0	0	0
+27	1/22/2020	Guangxi	China	female	66.0	0	0
+28	1/22/2020	Guangxi	China	male	46.0	0	0
+29	1/22/2020	Henan	China	female	32.0	0	0
+30	1/22/2020	Henan	China	male	28.0	0	0
+31	1/22/2020	Henan	China	male	55.0	0	0
+32	1/22/2020	Henan	China	male	68.0	0	0
+33	1/22/2020	Shandong	China	male	38.0	0	0
+34	1/22/2020	Hebei	China	male	72.0	0	0
+35	1/22/2020	Beijing	China	male	45.0	0	0
+36	1/22/2020	Beijing	China	male	42.0	0	0
+37	1/22/2020	Beijing	China	female	33.0	0	0
+38	1/22/2020	Beijing	China	female	33.0	0	0
+39	1/22/2020	Jiangsu	China	male	37.0	0	0
+40	1/23/2020	Heilongjiang	China	male	69.0	0	0
+41	1/23/2020	Guangxi	China	male	63.0	0	0
+42	1/23/2020	Guangxi	China	female	62.0	0	0
+43	1/23/2020	Guangxi	China	male	49.0	0	0
+44	1/22/2020	Sichuan	China	male	50.0	0	0
+45	1/22/2020	Sichuan	China	male	48.0	0	0
+46	1/22/2020	Sichuan	China	male	36.0	0	0
+47	1/22/2020	Jilin	China	female	36.0	0	0
+48	1/22/2020	Wuhan, Hubei	China	male	61.0	1	0
+49	1/22/2020	Wuhan, Hubei	China	male	69.0	1	0
+50	1/22/2020	Wuhan, Hubei	China	male	89.0	1	0
+51	1/22/2020	Wuhan, Hubei	China	male	89.0	1	0
+52	1/22/2020	Wuhan, Hubei	China	male	66.0	1	0
+53	1/22/2020	Wuhan, Hubei	China	male	75.0	1	0
+54	1/22/2020	Wuhan, Hubei	China	female	48.0	1	0
+55	1/22/2020	Wuhan, Hubei	China	male	82.0	1	0
+56	1/22/2020	Wuhan, Hubei	China	male	66.0	1	0
+57	1/22/2020	Wuhan, Hubei	China	male	81.0	1	0
+58	1/22/2020	Wuhan, Hubei	China	female	82.0	1	0
+59	1/22/2020	Wuhan, Hubei	China	male	65.0	1	0
+60	1/22/2020	Wuhan, Hubei	China	female	80.0	1	0
+61	1/22/2020	Wuhan, Hubei	China	male	53.0	1	0
+62	1/22/2020	Wuhan, Hubei	China	male	86.0	1	0
+63	1/22/2020	Wuhan, Hubei	China	female	70.0	1	0
+64	1/22/2020	Wuhan, Hubei	China	male	84.0	1	0
+65	1/22/2020	Liaoning	China	female	50.0	0	0
+66	1/22/2020	Hunan	China	male	40.0	0	0
+67	1/22/2020	Hunan	China	male	45.0	0	0
+68	1/22/2020	Hunan	China	female	66.0	0	0
+69	1/22/2020	Hunan	China	male	59.0	0	0
+70	1/22/2020	Hunan	China	female	23.0	0	0
+71	1/22/2020	Guizhou	China	female	50.0	0	0
+72	1/23/2020	Gansu	China	male	43.0	0	0
+73	1/23/2020	Heilongjiang	China	male	49.0	0	0
+74	1/23/2020	Shanxi (陕西)	China	male	42.0	0	0
+75	1/23/2020	Shanxi (陕西)	China	female	32.0	0	0
+76	1/23/2020	Shanxi (陕西)	China	male	22.0	0	0
+77	1/23/2020	Xinjiang	China	male	47.0	0	0
+78	1/23/2020	Xinjiang	China	male	52.0	0	0
+79	1/23/2020	Yunnan	China	male	53.0	0	0
+80	1/23/2020	Tianjin	China	male	46.0	0	0
+81	1/23/2020	Hubei	China	female	85.0	1	0
+82	1/23/2020	Hubei	China	female	69.0	1	0
+83	1/23/2020	Hubei	China	male	36.0	1	0
+84	1/23/2020	Hubei	China	male	73.0	1	0
+85	1/23/2020	Hubei	China	female	70.0	1	0
+86	1/23/2020	Hubei	China	male	81.0	1	0
+87	1/23/2020	Hubei	China	female	65.0	1	0
+88	1/23/2020	Liaoning	China	male	42.0	0	0
+89	1/24/2020	Inner Mongolia	China	male	30.0	0	0
+90	1/24/2020	Tianjin	China	female	29.0	0	0
+91	1/24/2020	Beijing	China	female		0	0
+92	1/24/2020	Shaanxi	China	male	49.0	0	0
+93	1/24/2020	Shaanxi	China	male	23.0	0	0
+94	1/24/2020	Shanghai	China	female	56.0	0	0
+95	1/24/2020	Tianjin	China	male	39.0	0	0
+96	1/24/2020	Yunnan	China	female	39.0	0	0
+97	1/24/2020	Yunnan	China	female	34.0	0	0
+98	1/24/2020	Yunnan	China	male	49.0	0	0
+99	1/24/2020	Wuhan, Hubei	China	male	70.0	1	0
+100	1/24/2020	Wuhan, Hubei	China	female	76.0	1	0
+101	1/24/2020	Wuhan, Hubei	China	male	72.0	1	0
+102	1/24/2020	Wuhan, Hubei	China	male	79.0	1	0
+103	1/24/2020	Wuhan, Hubei	China	male	55.0	1	0
+104	1/24/2020	Wuhan, Hubei	China	male	87.0	1	0
+105	1/24/2020	Wuhan, Hubei	China	female	66.0	1	0
+106	1/24/2020	Wuhan, Hubei	China	male	58.0	1	0
+107	1/24/2020	Wuhan, Hubei	China	male	66.0	1	0
+108	1/24/2020	Wuhan, Hubei	China	male	78.0	1	0
+109	1/24/2020	Wuhan, Hubei	China	male	67.0	1	0
+110	1/24/2020	Wuhan, Hubei	China	male	65.0	1	0
+111	1/24/2020	Wuhan, Hubei	China	male	58.0	1	0
+112	1/24/2020	Wuhan, Hubei	China	female	67.0	1	0
+113	1/24/2020	Wuhan, Hubei	China	female	82.0	1	0
+114	1/25/2020	Hechi, Guangxi	China	female	49.0	0	0
+115	1/25/2020	Hechi, Guangxi	China	female	2.0	0	0
+116	1/25/2020	Beijing	China	male		0	0
+117	1/21/2020	Tianjin	China	female	59.0	0	0
+118	1/21/2020	Tianjin	China	male	57.0	0	0
+119	1/22/2020	Tianjin	China	female	68.0	0	0
+120	1/22/2020	Tianjin	China	male	40.0	0	0
+121	1/23/2020	Tianjin	China	male	46.0	0	0
+122	1/24/2020	Tianjin	China	male	56.0	0	0
+123	1/24/2020	Tianjin	China	female	29.0	0	0
+124	1/24/2020	Tianjin	China	male	29.0	0	0
+125	1/25/2020	Tianjin	China	male	57.0	0	0
+126	1/25/2020	Tianjin	China	male	30.0	0	0
+127	1/25/2020	Gansu	China	female	33.0	0	0
+128	1/25/2020	Gansu	China	female	20.0	0	0
+129	1/25/2020	Shaanxi	China	female	24.0	0	0
+130	1/25/2020	Shaanxi	China	male	28.0	0	0
+131	1/25/2020	Shaanxi	China	male	41.0	0	0
+132	1/25/2020	Shaanxi	China	male	46.0	0	0
+133	1/25/2020	Shaanxi	China	female	45.0	0	0
+134	1/25/2020	Shaanxi	China	female	9.0	0	0
+135	1/25/2020	Shaanxi	China	male	40.0	0	0
+136	1/25/2020	Shaanxi	China	male	28.0	0	0
+137	1/25/2020	Shaanxi	China	male	27.0	0	0
+138	1/25/2020	Shaanxi	China	male	15.0	0	0
+139	1/25/2020	Yunnan	China	female	42.0	0	0
+140	1/25/2020	Yunnan	China	male	24.0	0	0
+141	1/25/2020	Yunnan	China	female	32.0	0	0
+142	1/25/2020	Yunnan	China	male	34.0	0	0
+143	1/25/2020	Yunnan	China	male	63.0	0	0
+144	1/25/2020	Yunnan	China	male	58.0	0	0
+145	1/21/2020	Beijing	China	male		0	0
+146	1/21/2020	Beijing	China	male		0	0
+147	1/25/2020	Beijing	China	male		0	0
+148	1/25/2020	Xinjiang	China	male	49.0	0	0
+149	1/25/2020	Ningxia	China	male	33.0	0	0
+150	1/25/2020	Tianjin	China	female	55.0	0	0
+151	1/25/2020	Tianjin	China	female	79.0	0	0
+152	1/25/2020	Tianjin	China	female	19.0	0	0
+153	1/25/2020	Macau	China	female	58.0	0	0
+154	1/25/2020	Macau	China	female	39.0	0	0
+155	1/25/2020	Macau	China	female	21.0	0	0
+156	1/25/2020	Shaanxi	China	female	30.0	0	0
+157	1/25/2020	Shaanxi	China	female	64.0	0	0
+158	1/25/2020	Shaanxi	China	male	44.0	0	0
+159	1/25/2020	Shaanxi	China	female	70.0	0	0
+160	1/25/2020	Shaanxi	China	female	52.0	0	0
+161	1/25/2020	Shaanxi	China	female	32.0	0	0
+162	1/25/2020	Shaanxi	China	male	33.0	0	0
+163	1/26/2020	Tianjin	China	male	71.0	0	0
+164	1/26/2020	Yunnan	China	male	31.0	0	0
+165	1/26/2020	Yunnan	China	female	48.0	0	0
+166	1/26/2020	Yunnan	China	female	19.0	0	0
+167	1/26/2020	Yunnan	China	female	68.0	0	0
+168	1/26/2020	Yunnan	China	male	71.0	0	0
+169	1/27/2020	Beijing	China	male	35.0	0	0
+170	1/27/2020	Beijing	China	female	4.0	0	0
+171	1/27/2020	Beijing	China	male	38.0	0	0
+172	1/27/2020	Beijing	China	female	69.0	0	0
+173	1/26/2020	Tianjin	China	male	50.0	0	0
+174	1/26/2020	Tianjin	China	male	78.0	0	0
+175	1/26/2020	Tianjin	China	male	49.0	0	0
+176	1/26/2020	Guizhou	China	male	34.0	0	0
+177	1/26/2020	Jilin	China	male		0	0
+178	1/26/2020	Yunnan	China	female	55.0	0	0
+179	1/26/2020	Yunnan	China	female	36.0	0	0
+180	1/26/2020	Yunnan	China	male	65.0	0	0
+181	1/26/2020	Jiangxi	China	male	38.0	0	0
+182	1/27/2020	Shaanxi	China	female	36.0	0	0
+183	1/27/2020	Shaanxi	China	male	18.0	0	0
+184	1/27/2020	Shaanxi	China	male	50.0	0	0
+185	1/27/2020	Shaanxi	China	female	40.0	0	0
+186	1/27/2020	Shaanxi	China	female	63.0	0	0
+187	1/27/2020	Shaanxi	China	female	47.0	0	0
+188	1/27/2020	Shaanxi	China	female	42.0	0	0
+189	1/27/2020	Shaanxi	China	male	48.0	0	0
+190	1/27/2020	Shaanxi	China	male	39.0	0	0
+191	1/27/2020	Shaanxi	China	female	41.0	0	0
+192	1/27/2020	Shaanxi	China	male	31.0	0	0
+193	1/27/2020	Shaanxi	China	male	27.0	0	0
+194	1/27/2020	Hubei	China	female	28.0	0	1
+195	1/27/2020	Hubei	China	female	51.0	0	1
+196	1/27/2020	Shandong	China	male	37.0	0	1
+197	1/25/2020	Bordeaux	France	male	48.0	0	0
+198	1/25/2020	Paris	France	male	31.0	0	02/12/20
+199	1/25/2020	Paris	France	female	30.0	0	02/12/20
+200	1/28/2020	Paris	France	male	80.0	2/14/2020	0
+201	1/29/2020	Paris	France	female		0	0
+202	1/30/2020	Paris	France			0	0
+203	02/08/20	France	France		9.0	0	0
+204	02/08/20	France	France			0	0
+205	02/08/20	France	France			0	0
+206	02/08/20	France	France			0	0
+207	02/08/20	France	France			0	0
+208	2/15/2020	France	France			0	0
+209	2/25/2020	Paris	France	female	33.0	0	0
+210	2/25/2020	Annecy	France	male	63.0	0	0
+211	2/26/2020	Amiens	France	male	55.0	0	0
+212	2/26/2020	Strasbourg	France	male	36.0	0	0
+213	2/26/2020	Paris	France	male	60.0	2/26/2020	0
+214	2/26/2020	Annecy	France	female	60.0	0	0
+215	2/27/2020	Paris	France			0	0
+216	2/27/2020	Paris	France			0	0
+217	2/27/2020	Saint-Mande	France			0	0
+218	2/27/2020	Saint-Mande	France			0	0
+219	2/27/2020	Saint-Mande	France			0	0
+220	2/27/2020	Saint-Mande	France			0	0
+221	2/27/2020	Saint-Mande	France			0	0
+222	2/27/2020	Dijon	France			0	0
+223	2/27/2020	Dijon	France			0	0
+224	2/27/2020	Dijon	France			0	0
+225	2/27/2020	Lile	France	male		0	0
+226	2/27/2020	Nantes	France	female	58.0	0	0
+227	2/27/2020	Montpellier	France	male	31.0	0	0
+228	2/27/2020	Paris	France			0	0
+229	2/27/2020	Brest	France	male	72.0	0	0
+230	2/27/2020	Dijon	France	male		0	0
+231	2/27/2020	Lyon	France	male	50.0	0	0
+232	2/27/2020	Annecy	France		65.0	0	0
+233	2/27/2020	Annecy	France	female	35.0	0	0
+234	2/27/2020	Bois-Guillaume	France	male		0	0
+235	2/28/2020	Nice	France	female	23.0	0	0
+236	1/15/2020	Kanagawa	Japan	male	35.0	0	1/15/2020
+237	1/24/2020	Tokyo	Japan	male	45.0	0	0
+238	1/25/2020	Tokyo	Japan	female	35.0	0	0
+239	1/26/2020	Aichi Prefecture	Japan	male	45.0	0	0
+240	1/28/2020	Aichi Prefecture	Japan	male	45.0	0	0
+241	1/28/2020	Nara Prefecture	Japan	male	65.0	0	0
+242	1/28/2020	Hokkaido	Japan	female	45.0	0	0
+243	1/29/2020	Osaka Prefecture	Japan	female	45.0	0	0
+244	1/30/2020	Tokyo	Japan	male	55.0	0	0
+245	1/30/2020	Mie	Japan	male	55.0	0	0
+246	1/30/2020	Japan	Japan	female	35.0	0	0
+247	1/30/2020	Kyoto	Japan	female	25.0	0	0
+248	1/31/2020	Haneda	Japan	female	25.0	0	0
+249	02/01/20	Japan	Japan	male	45.0	0	0
+250	02/01/20	Japan	Japan	male	45.0	0	0
+251	02/01/20	Japan	Japan	male	35.0	0	0
+252	02/04/20	Chiba Prefecture	Japan	female	35.0	0	0
+253	02/04/20	Chiba Prefecture	Japan	female	55.0	0	0
+254	02/04/20	Japan	Japan	male	55.0	0	0
+255	02/05/20	Chiba Prefecture	Japan	male	45.0	0	0
+256	02/05/20	Kyoto	Japan	male	25.0	0	0
+257	02/05/20	Japan	Japan	male	55.0	0	0
+258	02/08/20	Japan	Japan	male	25.0	0	0
+259	02/10/20	Japan	Japan	male	45.0	0	0
+260	02/10/20	Japan	Japan	male	55.0	0	0
+261		Japan	Japan			0	0
+262	2/13/2020	Kanagawa	Japan	female	85.0	2/13/2020	0
+263	2/13/2020	Tokyo	Japan	male	75.0	0	0
+264	2/13/2020	Wakayama Prefecture	Japan	male	55.0	0	0
+265	2/13/2020	Chiba Prefecture	Japan	male	25.0	0	0
+266	2/14/2020	Japan	Japan	male	75.0	2/28/2020	0
+267	2/14/2020	Okinawa Prefecture	Japan	female	65.0	0	0
+268	2/14/2020	Tokyo	Japan	female	55.0	0	0
+269	2/14/2020	Tokyo	Japan	male	75.0	0	0
+270	2/14/2020	Aichi Prefecture	Japan	male	65.0	0	0
+271	2/14/2020	Hokkaido	Japan	male	55.0	0	0
+272	2/14/2020	Kanagawa	Japan	male	35.0	0	0
+273	2/15/2020	Wakayama Prefecture	Japan	male	55.0	0	0
+274	2/15/2020	Wakayama Prefecture	Japan	female	55.0	0	0
+275	2/15/2020	Wakayama Prefecture	Japan	male	65.0	0	0
+276	2/15/2020	Aichi Prefecture	Japan	female	65.0	0	0
+277	2/15/2020	Tokyo	Japan	female	65.0	0	0
+278	2/15/2020	Tokyo	Japan	male	45.0	0	0
+279	2/16/2020	Tokyo	Japan	male	65.0	0	0
+280	2/16/2020	Tokyo	Japan	male	35.0	0	0
+281	2/16/2020	Aichi Prefecture	Japan	male	65.0	0	0
+282	2/16/2020	Nara Prefecture	Japan	male	65.0	0	0
+283	2/17/2020	Aichi Prefecture	Japan	male	65.0	0	0
+284	2/17/2020	Wakayama Prefecture	Japan	female	85.0	0	0
+285	2/17/2020	Wakayama Prefecture	Japan	female	55.0	0	0
+286	2/17/2020	Wakayama Prefecture	Japan	male	55.0	0	0
+287	2/17/2020	Wakayama Prefecture	Japan	male	55.0	0	0
+288	2/17/2020	Wakayama Prefecture	Japan	female	45.0	0	0
+289	2/18/2020	Wakayama Prefecture	Japan	male	65.0	0	0
+290	2/18/2020	Wakayama Prefecture	Japan	male	35.0	0	0
+291	2/18/2020	Tokyo	Japan	male	85.0	2/26/2020	0
+292	2/18/2020	Japan	Japan	male	25.0	0	0
+293	2/18/2020	Japan	Japan	male	55.0	0	0
+294	2/18/2020	Aichi Prefecture	Japan	male	65.0	0	0
+295	2/19/2020	Sagamihara	Japan	male	85.0	0	0
+296	2/19/2020	Sagamihara	Japan	male	75.0	0	0
+297	2/19/2020	Kanagawa	Japan	male	65.0	0	0
+298	2/19/2020	Sapporo	Japan	male	45.0	0	0
+299	2/19/2020	Hokkaido	Japan	male	65.0	0	0
+300	2/19/2020	Okinawa Prefecture	Japan	male	65.0	0	0
+301	2/19/2020	Tokyo	Japan	male	75.0	0	0
+302	2/19/2020	Tokyo	Japan	female	75.0	0	0
+303	2/19/2020	Tokyo	Japan	female	75.0	0	0
+304	2/19/2020	Nagoya City	Japan	female	55.0	0	0
+305	2/19/2020	Japan	Japan	male	55.0	0	0
+306	2/20/2020	Fukuoka Prefecture	Japan	male	65.0	0	0
+307	2/20/2020	Hokkaido	Japan	male	45.0	0	0
+308	2/20/2020	Chiba Prefecture	Japan	female	75.0	0	0
+309	2/20/2020	Okinawa Prefecture	Japan	male	85.0	0	0
+310	2/20/2020	Japan	Japan			0	0
+311	2/20/2020	Japan	Japan			0	0
+312	2/20/2020	Nagoya City	Japan	male	85.0	0	0
+313	2/20/2020	Sagamihara	Japan	male	85.0	0	0
+314	2/20/2020	Fukuoka Prefecture	Japan	female	65.0	0	0
+315	2/21/2020	Hokkaido	Japan	male	5.0	0	12/30/1899
+316	2/21/2020	Hokkaido	Japan	male	15.0	0	12/30/1899
+317	2/21/2020	Hokkaido	Japan	female	45.0	0	12/30/1899
+318	2/21/2020	Ishikawa	Japan	male	55.0	0	12/30/1899
+319	2/21/2020	Saitama Prefecture	Japan		5.0	0	12/30/1899
+320	2/21/2020	Tokyo	Japan	female	55.0	0	12/30/1899
+321	2/21/2020	Tokyo	Japan	female	75.0	0	12/30/1899
+322	2/21/2020	Tokyo	Japan	female	55.0	0	12/30/1899
+323	2/21/2020	Chiba Prefecture	Japan	male	65.0	0	12/30/1899
+324	2/21/2020	Sagamihara	Japan	male	85.0	0	12/30/1899
+325	2/21/2020	Nagoya City	Japan	male	75.0	0	12/30/1899
+326	2/21/2020	Nagoya City	Japan	female	25.0	0	12/30/1899
+327	2/22/2020	Kumamoto City	Japan	female	25.0	0	0
+328	2/22/2020	Kumamoto City	Japan	male	55.0	0	0
+329	2/22/2020	Kumamoto Prefecture	Japan	male	65.0	0	0
+330	2/22/2020	Wakayama Prefecture	Japan	male	45.0	0	0
+331	2/22/2020	Chiba Prefecture	Japan	female	65.0	0	0
+332	2/22/2020	Japan	Japan	female	55.0	0	0
+333	2/22/2020	Hokkaido	Japan	female	75.0	0	0
+334	2/22/2020	Hokkaido	Japan	male	85.0	2/27/2020	0
+335	2/22/2020	Hokkaido	Japan	male	75.0	0	0
+336	2/22/2020	Hokkaido	Japan	female	55.0	0	0
+337	2/22/2020	Hokkaido	Japan	male	65.0	0	0
+338	2/22/2020	Hokkaido	Japan	female	55.0	0	0
+339	2/22/2020	Hokkaido	Japan	female	15.0	0	0
+340	2/22/2020	Hokkaido	Japan	female	55.0	0	0
+341	2/22/2020	Tokyo	Japan	male	65.0	0	0
+342	2/22/2020	Nagoya City	Japan	female	65.0	0	0
+343	2/22/2020	Nagoya City	Japan	female	46.0	0	0
+344	2/22/2020	Nagoya City	Japan	male	65.0	0	0
+345	2/22/2020	Nagoya City	Japan	male	65.0	0	0
+346	2/22/2020	Japan	Japan	female	65.0	0	0
+347	2/22/2020	Sagamihara	Japan	male	55.0	0	0
+348	2/22/2020	Hokkaido	Japan	male	55.0	0	0
+349	2/23/2020	Sapporo	Japan	male	75.0	0	0
+350	2/23/2020	Nagoya City	Japan	female	75.0	0	0
+351	2/23/2020	Nagoya City	Japan	male	75.0	0	0
+352	2/23/2020	Chiba Prefecture	Japan	male	45.0	0	0
+353	2/23/2020	Hokkaido	Japan	male	35.0	0	0
+354	2/23/2020	Hokkaido	Japan	female	65.0	0	0
+355	2/23/2020	Hokkaido	Japan	male	25.0	0	0
+356	2/23/2020	Hokkaido	Japan	male	75.0	0	0
+357	2/23/2020	Hokkaido	Japan	female	35.0	0	0
+358	2/23/2020	Hokkaido	Japan	male	85.0	0	0
+359	2/23/2020	Hokkaido	Japan	female	45.0	0	0
+360	2/23/2020	Hokkaido	Japan	female	25.0	0	0
+361	2/23/2020	Ishikawa	Japan	female	55.0	0	0
+362	2/23/2020	Sagamihara	Japan	male	55.0	0	0
+363	2/24/2020	Ishikawa	Japan	male	65.0	0	0
+364	2/24/2020	Sapporo	Japan	female	75.0	0	0
+365	2/24/2020	Sapporo	Japan	male	55.0	0	0
+366	2/24/2020	Hokkaido	Japan	female	25.0	0	0
+367	2/24/2020	Hokkaido	Japan	male	55.0	0	0
+368	2/24/2020	Kanagawa	Japan	male	55.0	0	0
+369	2/24/2020	Tokyo	Japan	male	45.0	0	0
+370	2/24/2020	Tokyo	Japan	male	55.0	0	0
+371	2/24/2020	Tokyo	Japan	male	35.0	0	0
+372	2/24/2020	Sagamihara	Japan	female	55.0	0	0
+373	2/24/2020	Sagamihara	Japan	female	25.0	0	0
+374	2/24/2020	Sagamihara	Japan	female	25.0	0	0
+375	2/25/2020	Nagano Prefecture	Japan	male	65.0	0	0
+376	2/25/2020	Kumamoto City	Japan	male	55.0	0	0
+377	2/25/2020	Kumamoto City	Japan	female	65.0	0	0
+378	2/25/2020	Sapporo	Japan	female	65.0	0	0
+379	2/25/2020	Ishikawa	Japan	female	55.0	0	0
+380	2/25/2020	Nagoya City	Japan	female	75.0	0	0
+381	2/25/2020	Nagoya City	Japan	female	75.0	0	0
+382	2/25/2020	Nagoya City	Japan	female	45.0	0	0
+383	2/26/2020	Chiba Prefecture	Japan	male	55.0	0	0
+384	2/26/2020	Chiba Prefecture	Japan	male	65.0	0	0
+385	2/26/2020	Chiba Prefecture	Japan	male	75.0	0	0
+386	2/26/2020	Hokkaido	Japan	male	25.0	0	0
+387	2/26/2020	Hokkaido	Japan	female	25.0	0	0
+388	2/26/2020	Hokkaido	Japan	male	75.0	0	0
+389	2/26/2020	Hokkaido	Japan			2/25/2020	0
+390	2/26/2020	Hokkaido	Japan	female	75.0	0	0
+391	2/26/2020	Hokkaido	Japan	female	75.0	0	0
+392	2/26/2020	Hokkaido	Japan	male	45.0	0	0
+393	2/26/2020	Kanagawa	Japan	male	65.0	0	0
+394	2/26/2020	Osaka Prefecture	Japan	female	45.0	0	0
+395	2/26/2020	Tokyo	Japan	male	85.0	0	0
+396	2/26/2020	Tokyo	Japan	male	75.0	0	0
+397	2/26/2020	Tokyo	Japan	male	75.0	0	0
+398	2/26/2020	Nagoya City	Japan	male	55.0	0	0
+399	2/26/2020	Nagoya City	Japan	male	65.0	0	0
+400	2/26/2020	Nagoya City	Japan	male	75.0	0	0
+401	2/26/2020	Nagoya City	Japan	male	75.0	0	0
+402	2/26/2020	Nagoya City	Japan	female	75.0	0	0
+403	2/27/2020	Gifu Prefecture	Japan	male	55.0	0	0
+404	2/27/2020	Gifu Prefecture	Japan	female	55.0	0	0
+405	2/27/2020	Ishikawa	Japan	male	55.0	0	0
+406	2/27/2020	Kanagawa	Japan	male	55.0	0	0
+407	2/27/2020	Tokyo	Japan	female	60.0	0	0
+408	2/27/2020	Osaka Prefecture	Japan	male	45.0	0	0
+409	2/27/2020	Hokkaido	Japan	male	55.0	0	0
+410	2/27/2020	Hokkaido	Japan	male	55.0	0	0
+411	2/27/2020	Hokkaido	Japan	male	35.0	0	0
+412	2/27/2020	Hokkaido	Japan	male	75.0	0	0
+413	2/27/2020	Hokkaido	Japan	male	65.0	0	0
+414	2/27/2020	Hokkaido	Japan	male	45.0	0	0
+415	2/27/2020	Hokkaido	Japan	male	45.0	0	0
+416	2/27/2020	Hokkaido	Japan	male	5.0	0	0
+417	2/27/2020	Hokkaido	Japan	male	35.0	0	0
+418	2/27/2020	Hokkaido	Japan	male	5.0	0	0
+419	2/27/2020	Hokkaido	Japan	male	85.0	0	0
+420	2/27/2020	Hokkaido	Japan	male	35.0	0	0
+421	2/27/2020	Hokkaido	Japan	male	85.0	0	0
+422	2/27/2020	Hokkaido	Japan	male	65.0	0	0
+423	2/27/2020	Hokkaido	Japan	female	45.0	0	0
+424	2/27/2020	Nagoya City	Japan	female	65.0	0	0
+425	2/27/2020	Nagoya City	Japan	male	65.0	0	0
+426	1/24/2020	Johor	Malaysia	male	40.0	0	02/08/20
+427	1/25/2020	Johor	Malaysia	female	65.0	0	2/14/2020
+428	1/25/2020	Johor	Malaysia	male	11.0	0	2/14/2020
+429	1/25/2020	Johor	Malaysia	male	2.0	0	2/14/2020
+430	1/29/2020	Langkawi	Malaysia	female	4.0	0	02/04/20
+431	1/29/2020	Johor	Malaysia	female	36.0	0	2/14/2020
+432	1/29/2020	Johor	Malaysia	male	52.0	0	2/18/2020
+433	1/30/2020	Johor	Malaysia	female	49.0	0	02/05/20
+434	02/04/20	Malaysia	Malaysia	male	41.0	0	2/17/2020
+435	02/04/20	Malaysia	Malaysia	male	63.0	0	02/09/20
+436	02/05/20	Malaysia	Malaysia	male	45.0	0	2/18/2020
+437	02/05/20	Malaysia	Malaysia	male	9.0	0	2/18/2020
+438	02/06/20	Malaysia	Malaysia	female	40.0	0	0
+439	02/06/20	Malaysia	Malaysia	female	37.0	0	0
+440	02/07/20	Johor	Malaysia	female	59.0	0	2/15/2020
+441	02/08/20	Malaysia	Malaysia	female	67.0	0	2/27/2020
+442	02/09/20	Malaysia	Malaysia	female	65.0	0	2/19/2020
+443	02/10/20	Malaysia	Malaysia	male	31.0	0	2/19/2020
+444	2/13/2020	Malaysia	Malaysia	female	39.0	0	0
+445	2/16/2020	Malaysia	Malaysia	male	27.0	0	2/20/2020
+446	2/16/2020	Malaysia	Malaysia	female	32.0	0	2/20/2020
+447	2/16/2020	Malaysia	Malaysia	female	83.0	0	2/27/2020
+448	2/27/2020	Malaysia	Malaysia	female	53.0	0	0
+449	1/25/2020	Kathmandu	Nepal	male	32.0	0	1/17/2020
+450	1/24/2020	Singapore	Singapore	male	66.0	0	2/19/2020
+451	1/24/2020	Singapore	Singapore	female	53.0	0	02/07/20
+452	1/24/2020	Singapore	Singapore	male	37.0	0	2/21/2020
+453	1/26/2020	Singapore	Singapore	male	36.0	0	02/12/20
+454	1/27/2020	Singapore	Singapore	female	56.0	0	2/18/2020
+455	1/28/2020	Singapore	Singapore	male	56.0	0	2/20/2020
+456	1/28/2020	Singapore	Singapore	male	35.0	0	02/04/20
+457	1/29/2020	Singapore	Singapore	female	56.0	0	2/18/2020
+458	1/29/2020	Singapore	Singapore	male	56.0	0	2/23/2020
+459	1/29/2020	Singapore	Singapore	male	56.0	0	02/09/20
+460	1/30/2020	Singapore	Singapore	female	31.0	0	02/09/20
+461	1/30/2020	Singapore	Singapore	female	37.0	0	02/12/20
+462	1/30/2020	Singapore	Singapore	female	73.0	0	02/12/20
+463	1/31/2020	Singapore	Singapore	male	31.0	0	2/17/2020
+464	1/31/2020	Singapore	Singapore	female	47.0	0	2/17/2020
+465	1/31/2020	Singapore	Singapore	male	38.0	0	2/20/2020
+466	02/01/20	Singapore	Singapore	female	47.0	0	02/11/20
+467	02/01/20	Singapore	Singapore	female	31.0	0	0
+468	02/04/20	Singapore	Singapore	female	28.0	0	2/22/2020
+469	02/04/20	Singapore	Singapore	female	48.0	0	0
+470	02/04/20	Singapore	Singapore	female	44.0	0	2/18/2020
+471	02/04/20	Singapore	Singapore			0	02/09/20
+472	02/04/20	Singapore	Singapore			0	2/21/2020
+473	02/04/20	Singapore	Singapore	female	32.0	0	2/15/2020
+474	02/05/20	Singapore	Singapore	male		0	02/12/20
+475	02/05/20	Singapore	Singapore	female	42.0	0	02/09/20
+476	02/05/20	Singapore	Singapore	male	0.5	0	2/21/2020
+477	02/05/20	Singapore	Singapore	male	45.0	0	2/22/2020
+478	02/06/20	Singapore	Singapore	male	41.0	0	02/12/20
+479	02/06/20	Singapore	Singapore	male	27.0	0	2/14/2020
+480	02/07/20	Singapore	Singapore	male	53.0	0	2/17/2020
+481	02/07/20	Singapore	Singapore	female	42.0	0	2/19/2020
+482	02/07/20	Singapore	Singapore	female	39.0	0	2/19/2020
+483	02/08/20	Singapore	Singapore	female	40.0	0	02/12/20
+484	02/08/20	Singapore	Singapore	male	64.0	0	0
+485	02/08/20	Singapore	Singapore	female	38.0	0	02/11/20
+486	02/08/20	Singapore	Singapore	male	53.0	0	0
+487	02/08/20	Singapore	Singapore	female	52.0	0	2/18/2020
+488	02/08/20	Singapore	Singapore	male	51.0	0	2/16/2020
+489	02/08/20	Singapore	Singapore	male	36.0	0	02/12/20
+490	02/09/20	Singapore	Singapore	male	71.0	0	0
+491	02/09/20	Singapore	Singapore	male	39.0	0	0
+492	02/09/20	Singapore	Singapore	male	54.0	0	0
+493	02/10/20	Singapore	Singapore	male	37.0	0	2/19/2020
+494	02/10/20	Singapore	Singapore	female	2.0	0	2/14/2020
+495	02/11/20	Singapore	Singapore	male	35.0	0	2/24/2020
+496	02/11/20	Singapore	Singapore	male	39.0	0	0
+497	02/12/20	Singapore	Singapore	male	34.0	0	2/17/2020
+498	02/12/20	Singapore	Singapore	male	46.0	0	2/26/2020
+499	02/12/20	Singapore	Singapore	male	62.0	0	2/21/2020
+500	2/13/2020	Singapore	Singapore	male	48.0	0	2/21/2020
+501	2/13/2020	Singapore	Singapore	male	37.0	0	0
+502	2/13/2020	Singapore	Singapore	male	54.0	0	0
+503	2/13/2020	Singapore	Singapore	female	55.0	0	0
+504	2/13/2020	Singapore	Singapore	male	30.0	0	2/19/2020
+505	2/13/2020	Singapore	Singapore	male	30.0	0	2/26/2020
+506	2/13/2020	Singapore	Singapore	male	26.0	0	2/21/2020
+507	2/13/2020	Singapore	Singapore	male	55.0	0	2/25/2020
+508	2/14/2020	Singapore	Singapore	male	61.0	0	2/26/2020
+509	2/14/2020	Singapore	Singapore	female	51.0	0	0
+510	2/14/2020	Singapore	Singapore	male	57.0	0	0
+511	2/14/2020	Singapore	Singapore	female	44.0	0	2/25/2020
+512	2/14/2020	Singapore	Singapore	female	54.0	0	2/21/2020
+513	2/14/2020	Singapore	Singapore	male	50.0	0	2/24/2020
+514	2/14/2020	Singapore	Singapore	female	61.0	0	2/17/2020
+515	2/14/2020	Singapore	Singapore	male	28.0	0	2/20/2020
+516	2/14/2020	Singapore	Singapore	female	56.0	0	0
+517	2/15/2020	Singapore	Singapore	female	79.0	0	0
+518	2/15/2020	Singapore	Singapore	male	26.0	0	0
+519	2/15/2020	Singapore	Singapore	female	27.0	0	2/21/2020
+520	2/15/2020	Singapore	Singapore	male	25.0	0	0
+521	2/15/2020	Singapore	Singapore	male	40.0	0	0
+522	2/16/2020	Singapore	Singapore	male	43.0	0	2/26/2020
+523	2/16/2020	Singapore	Singapore	male	29.0	0	0
+524	2/16/2020	Singapore	Singapore	female	71.0	0	0
+525	2/17/2020	Singapore	Singapore	male	1.0	0	2/18/2020
+526	2/17/2020	Singapore	Singapore	male	35.0	0	2/25/2020
+527	2/18/2020	Singapore	Singapore	female	57.0	0	0
+528	2/18/2020	Singapore	Singapore	female	35.0	0	0
+529	2/18/2020	Singapore	Singapore	female	38.0	0	0
+530	2/18/2020	Singapore	Singapore	male	50.0	0	2/25/2020
+531	2/19/2020	Singapore	Singapore	female	57.0	0	0
+532	2/19/2020	Singapore	Singapore	male	54.0	0	2/21/2020
+533	2/19/2020	Singapore	Singapore	female	35.0	0	2/21/2020
+534	2/19/2020	Singapore	Singapore	male	36.0	0	0
+535	2/21/2020	Singapore	Singapore	male	24.0	0	0
+536	2/22/2020	Singapore	Singapore	male	32.0	0	2/24/2020
+537	2/22/2020	Singapore	Singapore	female	30.0	0	0
+538	2/22/2020	Singapore	Singapore	male	41.0	0	0
+539	2/24/2020	Singapore	Singapore	female	75.0	0	0
+540	2/25/2020	Singapore	Singapore	female	58.0	0	2/25/2020
+541	2/26/2020	Singapore	Singapore	male	47.0	0	0
+542	2/26/2020	Singapore	Singapore	male	38.0	0	0
+543	1/20/2020	South Korea	South Korea	female	35.0	0	02/06/20
+544	1/24/2020	South Korea	South Korea	male	55.0	0	02/04/20
+545	1/25/2020	South Korea	South Korea	male	54.0	0	0
+546	1/27/2020	South Korea	South Korea	male	55.0	0	0
+547	1/30/2020	South Korea	South Korea	male	32.0	0	0
+548	1/30/2020	South Korea	South Korea	male	56.0	0	2/19/2020
+549	1/31/2020	South Korea	South Korea	male	28.0	0	0
+550	1/31/2020	South Korea	South Korea	female	62.0	0	0
+551	1/30/2020	South Korea	South Korea	female	28.0	0	2/24/2020
+552	1/31/2020	South Korea	South Korea	female	52.0	0	2/19/2020
+553	1/31/2020	South Korea	South Korea	male	25.0	0	0
+554	02/01/20	South Korea	South Korea	male	48.0	0	2/18/2020
+555	02/02/20	South Korea	South Korea	male	28.0	0	2/24/2020
+556	02/02/20	Seoul	South Korea	female	40.0	0	2/18/2020
+557	02/02/20	South Korea	South Korea	male	43.0	0	2/24/2020
+558	02/04/20	South Korea	South Korea	female	42.0	0	2/19/2020
+559	02/05/20	South Korea	South Korea	male	37.0	0	0
+560	02/05/20	South Korea	South Korea	female	21.0	0	2/19/2020
+561	02/05/20	South Korea	South Korea	male	36.0	0	0
+562	02/06/20	South Korea	South Korea	female	41.0	0	2/24/2020
+563	02/06/20	South Korea	South Korea	female	59.0	0	0
+564	02/06/20	South Korea	South Korea	male	46.0	0	2/17/2020
+565	02/06/20	South Korea	South Korea	female	58.0	0	0
+566	02/07/20	South Korea	South Korea	male	28.0	0	2/27/2020
+567	02/09/20	South Korea	South Korea	female	73.0	0	2/22/2020
+568	02/09/20	South Korea	South Korea	male	51.0	0	0
+569	02/09/20	South Korea	South Korea	female	37.0	0	0
+570	02/11/20	South Korea	South Korea	female	30.0	0	0
+571	2/16/2020	South Korea	South Korea	male	82.0	0	0
+572	2/17/2020	South Korea	South Korea	female	68.0	0	0
+573	2/18/2020	South Korea	South Korea	female	61.0	0	0
+574	2/19/2020	South Korea	South Korea	female	11.0	0	0
+575	2/19/2020	South Korea	South Korea	female	40.0	0	0
+576	2/19/2020	South Korea	South Korea	male	24.0	0	0
+577	2/19/2020	South Korea	South Korea	female	26.0	0	0
+578	2/19/2020	South Korea	South Korea	female	48.0	0	0
+579	2/19/2020	South Korea	South Korea	male	49.0	0	2/26/2020
+580	2/19/2020	South Korea	South Korea	female	57.0	2/23/2020	0
+581	2/19/2020	South Korea	South Korea	female	61.0	0	0
+582	2/19/2020	South Korea	South Korea	male	77.0	0	0
+583	2/19/2020	South Korea	South Korea	female	69.0	0	0
+584	2/19/2020	South Korea	South Korea	female	29.0	0	0
+585	2/19/2020	South Korea	South Korea	female	58.0	0	0
+586	2/19/2020	South Korea	South Korea	female	46.0	0	0
+587	2/19/2020	South Korea	South Korea	female	54.0	0	0
+588	2/19/2020	South Korea	South Korea	male	28.0	0	0
+589	2/19/2020	South Korea	South Korea	female	63.0	0	0
+590	2/19/2020	South Korea	South Korea	female	72.0	0	0
+591	2/19/2020	South Korea	South Korea	male	58.0	0	0
+592	2/19/2020	South Korea	South Korea	male	76.0	0	0
+593	2/19/2020	South Korea	South Korea	female	61.0	0	2/26/2020
+594	2/20/2020	South Korea	South Korea	male	24.0	0	0
+595	2/20/2020	South Korea	South Korea	female	38.0	0	0
+596	2/20/2020	South Korea	South Korea	male	57.0	2/23/2020	0
+597	2/20/2020	South Korea	South Korea	male	59.0	2/23/2020	0
+598	2/20/2020	South Korea	South Korea	male	75.0	0	0
+599	2/20/2020	South Korea	South Korea	male	30.0	0	0
+600	2/20/2020	South Korea	South Korea	female	26.0	0	0
+601	2/20/2020	South Korea	South Korea	female	34.0	0	0
+602	2/20/2020	South Korea	South Korea	female	59.0	0	0
+603	2/20/2020	South Korea	South Korea	female	58.0	0	0
+604	2/20/2020	South Korea	South Korea	male	60.0	0	0
+605	2/20/2020	South Korea	South Korea	female	52.0	0	2/28/2020
+606	2/20/2020	South Korea	South Korea	female	59.0	0	0
+607	2/20/2020	South Korea	South Korea	female	50.0	0	2/27/2020
+608	2/20/2020	South Korea	South Korea	male	22.0	0	0
+609	2/20/2020	South Korea	South Korea	female	30.0	0	0
+610	2/20/2020	South Korea	South Korea	female	56.0	0	0
+611	2/20/2020	South Korea	South Korea	male	29.0	0	0
+612	2/20/2020	South Korea	South Korea	female	48.0	0	0
+613	2/20/2020	South Korea	South Korea	female	56.0	0	0
+614	2/20/2020	South Korea	South Korea	female	39.0	0	0
+615	2/20/2020	South Korea	South Korea	female	20.0	0	0
+616	2/20/2020	South Korea	South Korea	male	49.0	0	0
+617	2/20/2020	South Korea	South Korea	female	23.0	0	0
+618	2/20/2020	South Korea	South Korea	male	36.0	0	0
+619	2/20/2020	South Korea	South Korea	female	57.0	0	0
+620	2/20/2020	South Korea	South Korea	male	55.0	0	0
+621	2/20/2020	South Korea	South Korea	female	22.0	0	0
+622	2/20/2020	South Korea	South Korea	female	34.0	0	0
+623	2/20/2020	South Korea	South Korea	female	65.0	0	0
+624	2/20/2020	South Korea	South Korea	male	64.0	0	0
+625	2/20/2020	South Korea	South Korea			0	0
+626	2/20/2020	South Korea	South Korea			0	0
+627	2/20/2020	South Korea	South Korea			0	0
+628	2/20/2020	South Korea	South Korea			0	0
+629	2/20/2020	South Korea	South Korea			0	0
+630	2/20/2020	South Korea	South Korea			0	0
+631	2/20/2020	South Korea	South Korea			0	0
+632	2/20/2020	South Korea	South Korea			0	0
+633	2/20/2020	South Korea	South Korea			0	0
+634	2/20/2020	South Korea	South Korea			0	0
+635	2/20/2020	South Korea	South Korea			0	0
+636	2/20/2020	South Korea	South Korea			0	0
+637	2/20/2020	South Korea	South Korea			0	0
+638	2/20/2020	South Korea	South Korea			0	0
+639	2/20/2020	South Korea	South Korea			0	0
+640	2/20/2020	South Korea	South Korea			0	0
+641	2/20/2020	South Korea	South Korea			0	0
+642	2/20/2020	South Korea	South Korea			0	0
+643	2/20/2020	South Korea	South Korea			0	0
+644	2/20/2020	South Korea	South Korea			0	0
+645	2/20/2020	South Korea	South Korea			0	0
+646	2/20/2020	South Korea	South Korea			0	0
+647	2/20/2020	South Korea	South Korea	male	67.0	0	0
+648	2/20/2020	South Korea	South Korea	male	74.0	2/26/2020	0
+649	2/21/2020	Seoul	South Korea	male	35.0	0	0
+650	2/22/2020	South Korea	South Korea	male	62.0	2/23/2020	0
+651	2/22/2020	South Korea	South Korea	male	58.0	2/24/2020	0
+652	2/22/2020	South Korea	South Korea	male	62.0	0	0
+653	2/23/2020	South Korea	South Korea	male	41.0	2/22/2020	0
+654	2/23/2020	South Korea	South Korea	male	36.0	2/25/2020	0
+655	2/25/2020	South Korea	South Korea	female	69.0	0	0
+656	2/26/2020	South Korea	South Korea	male	75.0	2/27/2020	0
+657	1/21/2020	Taiwan	Taiwan	female	55.0	0	0
+658	1/24/2020	Taiwan	Taiwan	female	55.0	0	0
+659	1/24/2020	Taiwan	Taiwan	male	55.0	0	0
+660	1/27/2020	Taiwan	Taiwan	female	50.0	0	0
+661	1/27/2020	Taiwan	Taiwan	female	50.0	0	0
+662	1/28/2020	Taiwan	Taiwan	female	70.0	0	0
+663	1/28/2020	Taiwan	Taiwan	female	70.0	0	0
+664	1/28/2020	Taiwan	Taiwan	male	55.0	0	0
+665	1/30/2020	Taiwan	Taiwan	male		0	0
+666	1/31/2020	Taiwan	Taiwan	female		0	0
+667	02/05/20	Taiwan	Taiwan	male	55.0	0	0
+668	02/06/20	Taiwan	Taiwan	male	45.0	0	0
+669	02/06/20	Taiwan	Taiwan	female	25.0	0	0
+670	02/06/20	Taiwan	Taiwan	male	55.0	0	0
+671	02/06/20	Taiwan	Taiwan	female	55.0	0	0
+672	02/06/20	Taiwan	Taiwan	female	45.0	0	0
+673	02/08/20	Taiwan	Taiwan	male	25.0	0	0
+674	02/08/20	Taiwan	Taiwan	male	25.0	0	0
+675	2/16/2020	Taiwan	Taiwan	male	65.0	1	0
+676	2/16/2020	Taiwan	Taiwan	male	55.0	0	0
+677	2/17/2020	Taiwan	Taiwan	female	85.0	0	0
+678	2/17/2020	Taiwan	Taiwan	male	35.0	0	0
+679	2/19/2020	Taiwan	Taiwan	female	65.0	0	0
+680	2/20/2020	Taiwan	Taiwan	female	60.0	0	0
+681	2/21/2020	Taiwan	Taiwan	female	45.0	0	0
+682	2/21/2020	Taiwan	Taiwan	female	25.0	0	0
+683	2/23/2020	Taiwan	Taiwan	male	85.0	0	0
+684	2/23/2020	Taiwan	Taiwan	male	55.0	0	0
+685	2/24/2020	Taiwan	Taiwan	male	45.0	0	0
+686	2/24/2020	Taiwan	Taiwan	female	75.0	0	0
+687	2/25/2020	Taiwan	Taiwan	male		0	0
+688	2/26/2020	Taiwan	Taiwan	female	35.0	0	0
+689	2/28/2020	Taiwan	Taiwan	male	35.0	0	0
+690	2/28/2020	Taiwan	Taiwan	female	55.0	0	0
+691	1/13/2020	Thailand	Thailand	female	61.0	0	0
+692	1/17/2020	Thailand	Thailand	female	74.0	0	0
+693	1/22/2020	Thailand	Thailand	male	68.0	0	1
+694	1/22/2020	Thailand	Thailand	female	73.0	0	02/06/20
+695	1/22/2020	Thailand	Thailand	male		0	1
+696	1/24/2020	Thailand	Thailand	female	33.0	0	0
+697	1/26/2020	Thailand	Thailand	female	57.0	0	0
+698	1/26/2020	Thailand	Thailand	female	73.0	0	0
+699	1/28/2020	Thailand	Thailand		6.0	0	0
+700	1/28/2020	Thailand	Thailand		60.0	0	0
+701	1/28/2020	Thailand	Thailand			0	0
+702	1/28/2020	Thailand	Thailand			0	0
+703	1/28/2020	Thailand	Thailand			0	0
+704	1/28/2020	Thailand	Thailand			0	0
+705	1/30/2020	Thailand	Thailand			0	0
+706	1/31/2020	Thailand	Thailand			0	0
+707	1/31/2020	Thailand	Thailand			0	0
+708	1/31/2020	Thailand	Thailand			0	0
+709	1/31/2020	Thailand	Thailand			0	0
+710	1/31/2020	Thailand	Thailand	male	50.0	0	02/05/20
+711	02/04/20	Thailand	Thailand			0	0
+712	02/04/20	Thailand	Thailand			0	0
+713	02/04/20	Thailand	Thailand			0	0
+714	02/04/20	Thailand	Thailand	male	70.0	0	0
+715	02/04/20	Thailand	Thailand			0	0
+716	02/08/20	Thailand	Thailand			0	0
+717	02/08/20	Thailand	Thailand			0	0
+718	02/08/20	Thailand	Thailand			0	0
+719	02/08/20	Thailand	Thailand			0	0
+720	02/08/20	Thailand	Thailand			0	0
+721	02/08/20	Thailand	Thailand			0	0
+722	02/08/20	Thailand	Thailand			0	0
+723	02/11/20	Thailand	Thailand	female	54.0	0	0
+724	2/15/2020	Thailand	Thailand	female	35.0	0	0
+725	2/16/2020	Thailand	Thailand	female	60.0	0	0
+726	2/25/2020	Thailand	Thailand	female	31.0	0	0
+727	2/25/2020	Thailand	Thailand	male	29.0	0	0
+728	2/26/2020	Thailand	Thailand	male		0	0
+729	2/26/2020	Thailand	Thailand	female		0	0
+730	2/26/2020	Thailand	Thailand	male	8.0	0	0
+731	2/28/2020	Thailand	Thailand	male	25.0	0	0
+732	1/21/2020	Washington	USA	male	35.0	0	2/20/2020
+733	1/24/2020	Illinois	USA	female	61.0	0	02/06/20
+734	1/26/2020	California	USA	male		0	0
+735	1/26/2020	California	USA			0	0
+736	1/26/2020	Arizona	USA			0	0
+737	1/30/2020	Illinois	USA	male	65.0	0	02/06/20
+738	1/31/2020	California	USA	male		0	0
+739	1/31/2020	Massachusetts	USA	male	25.0	0	0
+740	02/03/20	California	USA	male	57.0	0	0
+741	02/03/20	California	USA	female	57.0	0	0
+742	02/03/20	California	USA	female		0	0
+743	02/05/20	Wisconsin	USA			0	0
+744	02/10/20	California	USA			0	0
+745	02/12/20	California	USA			0	0
+746	2/13/2020	Texas	USA			0	0
+747	2/20/2020	California	USA			0	0
+748	2/21/2020	California	USA			0	0
+749	2/27/2020	California	USA			0	0
+750	1/23/2020	Ho Chi Minh City	Vietnam	male	66.0	0	02/12/20
+751	1/23/2020	Ho Chi Minh City	Vietnam	male	28.0	0	02/04/20
+752	1/30/2020	Hanoi	Vietnam			0	0
+753	1/30/2020	Hanoi	Vietnam			0	0
+754	1/30/2020	Thanh Hoa	Vietnam			0	0
+755	02/03/20	Vietnam	Vietnam			0	0
+756	02/03/20	Vietnam	Vietnam			0	0
+757	02/03/20	Vietnam	Vietnam			0	0
+758	02/04/20	Vinh Phuc	Vietnam	male	30.0	0	2/18/2020
+759	02/04/20	Vinh Phuc	Vietnam	female	42.0	0	2/20/2020
+760	02/06/20	Vinh Phuc	Vietnam	female	16.0	0	2/20/2020
+761	02/06/20	Vinh Phuc	Vietnam		49.0	0	0
+762	02/08/20	Vinh Phuc	Vietnam	female	29.0	0	2/18/2020
+763	02/09/20	Vinh Phuc	Vietnam	female	55.0	0	2/18/2020
+764	02/10/20	Vinh Phuc	Vietnam		0.25	0	2/20/2020
+765	2/13/2020	Vinh Phuc	Vietnam	male	50.0	0	0
+766	1/25/2020	NSW	Australia	male	35.0	0	1/30/2020
+767	1/25/2020	NSW	Australia	male	43.0	0	2/13/2020
+768	1/25/2020	NSW	Australia	male	53.0	0	1/30/2020
+769	1/25/2020	Victoria	Australia	male	55.0	0	0
+770	1/26/2020	NSW	Australia	female	21.0	0	02/02/20
+771	1/29/2020	Queensland	Australia	male	44.0	0	0
+772	1/29/2020	Victoria	Australia	male	65.0	0	0
+773	1/30/2020	Victoria	Australia	female	45.0	0	0
+774	1/31/2020	Queensland	Australia	female	42.0	0	0
+775	02/01/20	South Australia	Australia	male	60.0	0	0
+776	02/01/20	South Australia	Australia	female	60.0	0	0
+777	02/01/20	Victoria	Australia	female	25.0	0	0
+778	02/04/20	Queensland	Australia	male	8.0	0	0
+779	02/05/20	Queensland	Australia	male	37.0	0	0
+780	02/06/20	Queensland	Australia	female	37.0	0	0
+781	1/26/2020	Toronto	Canada	male	56.0	0	1/31/2020
+782	1/27/2020	Toronto	Canada	female	55.0	0	0
+783	1/28/2020	Vancouver	Canada	male	45.0	0	0
+784	02/01/20	Toronto	Canada	female	25.0	0	1
+785	02/05/20	Vancouver	Canada	female	55.0	0	0
+786	02/06/20	Vancouver	Canada	male	35.0	0	0
+787	02/06/20	Vancouver	Canada	female	35.0	0	0
+788	2/14/2020	Vancouver	Canada	female	35.0	0	0
+789	2/21/2020	Vancouver	Canada	female	35.0	0	0
+790	2/24/2020	Toronto	Canada	female	25.0	0	0
+791	2/24/2020	Vancouver	Canada	male	45.0	0	0
+792	2/27/2020	Toronto	Canada	female	65.0	0	0
+793	1/27/2020	Preah Sihanouk Province	Cambodia	male	60.0	0	0
+794	1/28/2020	Sri Lanka	Sri Lanka	female	40.0	0	2/19/2020
+795	1/28/2020	Bavaria	Germany	male	33.0	0	0
+796	1/29/2020	Bavaria	Germany			0	0
+797	1/29/2020	Bavaria	Germany			0	0
+798	1/29/2020	Bavaria	Germany			0	0
+799	1/30/2020	Bavaria	Germany	male		0	0
+800	1/31/2020	Bavaria	Germany			0	0
+801	1/31/2020	Bavaria	Germany	male	52.0	0	0
+802	02/01/20	Bavaria	Germany	male	33.0	0	0
+803	02/02/20	Frankfurt	Germany			0	0
+804	02/02/20	Frankfurt	Germany			0	0
+805	02/05/20	Bavaria	Germany			0	0
+806	02/05/20	Bavaria	Germany	male	58.0	0	0
+807	02/06/20	Bavaria	Germany	female		0	0
+808	02/07/20	Bavaria	Germany	female		0	0
+809	02/11/20	Bavaria	Germany	male	49.0	0	0
+810	02/11/20	Bavaria	Germany			0	0
+811	2/26/2020	Baden-Wuerttemberg	Germany	male	25.0	0	0
+812	2/26/2020	Tubingen	Germany	male	60.0	0	0
+813	2/26/2020	Tubingen	Germany	female	24.0	0	0
+814	2/26/2020	Baden-Wuerttemberg	Germany	male	32.0	0	0
+815	2/26/2020	North Rhine-Westphalia	Germany	male	47.0	0	0
+816	2/26/2020	North Rhine-Westphalia	Germany	female	46.0	0	0
+817	2/26/2020	North Rhine-Westphalia	Germany	male	41.0	0	0
+818	2/26/2020	North Rhine-Westphalia	Germany			0	0
+819	2/26/2020	North Rhine-Westphalia	Germany			0	0
+820	2/26/2020	North Rhine-Westphalia	Germany			0	0
+821	2/27/2020	North Rhine-Westphalia	Germany			0	0
+822	2/27/2020	North Rhine-Westphalia	Germany			0	0
+823	2/27/2020	North Rhine-Westphalia	Germany			0	0
+824	2/27/2020	North Rhine-Westphalia	Germany			0	0
+825	2/27/2020	North Rhine-Westphalia	Germany			0	0
+826	2/27/2020	North Rhine-Westphalia	Germany			0	0
+827	2/27/2020	North Rhine-Westphalia	Germany			0	0
+828	2/27/2020	North Rhine-Westphalia	Germany			0	0
+829	2/27/2020	North Rhine-Westphalia	Germany			0	0
+830	2/27/2020	North Rhine-Westphalia	Germany			0	0
+831	2/27/2020	North Rhine-Westphalia	Germany			0	0
+832	2/27/2020	North Rhine-Westphalia	Germany			0	0
+833	2/27/2020	North Rhine-Westphalia	Germany			0	0
+834	2/27/2020	North Rhine-Westphalia	Germany			0	0
+835	2/27/2020	Hamburg	Germany	male		0	0
+836	2/27/2020	Baden-Wuerttemberg	Germany	female		0	0
+837	2/27/2020	Baden-Wuerttemberg	Germany	female		0	0
+838	2/27/2020	Baden-Wuerttemberg	Germany	male		0	0
+839	2/27/2020	Baden-Wuerttemberg	Germany	male		0	0
+840	2/27/2020	Rhineland-Palatinate	Germany			0	0
+841	2/27/2020	Bavaria	Germany	male		0	0
+842	2/27/2020	Hesse	Germany	male	31.0	0	0
+843	2/28/2020	Baden-Wuerttemberg	Germany	male		0	0
+844	2/28/2020	Baden-Wuerttemberg	Germany	male		0	0
+845	2/28/2020	Baden-Wuerttemberg	Germany	male		0	0
+846	2/28/2020	Baden-Wuerttemberg	Germany	male		0	0
+847	2/28/2020	Baden-Wuerttemberg	Germany	male	32.0	0	0
+848	2/28/2020	North Rhine-Westphalia	Germany	female		0	0
+849	1/29/2020	UAE	UAE	female	73.0	0	02/09/20
+850	1/29/2020	UAE	UAE	female	36.0	0	2/27/2020
+851	1/29/2020	UAE	UAE	male	41.0	0	2/16/2020
+852	1/29/2020	UAE	UAE	male	8.0	0	2/16/2020
+853	02/01/20	UAE	UAE			0	0
+854	02/08/20	UAE	UAE			0	0
+855	02/08/20	UAE	UAE			0	0
+856	02/10/20	UAE	UAE			0	0
+857	2/16/2020	UAE	UAE	male	37.0	0	0
+858	2/21/2020	UAE	UAE		34.0	0	0
+859	2/21/2020	UAE	UAE		39.0	0	0
+860	2/22/2020	UAE	UAE	male	70.0	0	0
+861	2/22/2020	UAE	UAE	female	64.0	0	0
+862	2/27/2020	UAE	UAE			0	0
+863	2/27/2020	UAE	UAE			0	0
+864	2/27/2020	UAE	UAE			0	0
+865	2/27/2020	UAE	UAE			0	0
+866	2/27/2020	UAE	UAE			0	0
+867	2/27/2020	UAE	UAE			0	0
+868	2/28/2020	UAE	UAE			0	0
+869	2/28/2020	UAE	UAE			0	0
+870	1/22/2020	Hong Kong	Hong Kong	male	39.0	0	0
+871	1/22/2020	Hong Kong	Hong Kong	male	56.0	0	0
+872	1/24/2020	Hong Kong	Hong Kong	female	62.0	0	0
+873	1/24/2020	Hong Kong	Hong Kong	female	62.0	0	0
+874	1/24/2020	Hong Kong	Hong Kong	male	63.0	0	1
+875	1/27/2020	Hong Kong	Hong Kong	male	47.0	0	0
+876	1/27/2020	Hong Kong	Hong Kong	female	68.0	0	0
+877	1/27/2020	Hong Kong	Hong Kong	male	64.0	0	0
+878	1/29/2020	Hong Kong	Hong Kong	female	73.0	0	0
+879	1/29/2020	Hong Kong	Hong Kong	male	72.0	0	0
+880	1/30/2020	Yau Ma Tei	Hong Kong	female	37.0	0	0
+881	1/30/2020	Tsing Yi	Hong Kong	male	75.0	0	0
+882	1/31/2020	Kowloon	Hong Kong	male	39.0	1	0
+883	02/02/20	Hong Kong	Hong Kong	male	80.0	0	0
+884	02/02/20	Kowloon	Hong Kong	female	72.0	0	0
+885	02/04/20	Kowloon	Hong Kong	female	64.0	0	0
+886	02/04/20	Hong Kong	Hong Kong	male	60.0	0	0
+887	02/04/20	Kowloon	Hong Kong	male	25.0	0	2/15/2020
+888	02/05/20	Kwun Tong	Hong Kong	female	56.0	0	0
+889	02/05/20	Kwun Tong	Hong Kong	female	28.0	0	0
+890	02/05/20	Kwai Chung	Hong Kong	male	56.0	0	0
+891	02/06/20	Kwai Chung	Hong Kong	female	55.0	0	0
+892	02/06/20	Hong Kong	Hong Kong	female	63.0	0	0
+893	02/06/20	Hong Kong	Hong Kong	female	65.0	0	0
+894	02/07/20	Zhuhai	Hong Kong	male	58.0	0	0
+895	02/07/20	Fo Tan	Hong Kong	male	42.0	0	0
+896	02/09/20	Wan Chai	Hong Kong	male	24.0	0	0
+897	02/09/20	Ngau Chi Wan	Hong Kong	male	70.0	0	0
+898	02/09/20	Hong Kong	Hong Kong	male	68.0	0	0
+899	02/09/20	Hong Kong	Hong Kong	female	57.0	0	0
+900	02/09/20	Hong Kong	Hong Kong	female	91.0	0	0
+901	02/09/20	Hong Kong	Hong Kong	female	51.0	0	0
+902	02/09/20	Hong Kong	Hong Kong	female	25.0	0	0
+903	02/09/20	Hong Kong	Hong Kong	male	22.0	0	0
+904	02/09/20	Hong Kong	Hong Kong	female	50.0	0	0
+905	02/09/20	Hong Kong	Hong Kong	male	23.0	0	0
+906	02/10/20	Hong Kong	Hong Kong	female	55.0	0	0
+907	02/10/20	Hong Kong	Hong Kong	male	52.0	0	0
+908	02/10/20	Hong Kong	Hong Kong	male	69.0	0	0
+909	02/10/20	Hong Kong	Hong Kong	female	63.0	0	0
+910	02/10/20	Hong Kong	Hong Kong	female	86.0	0	0
+911	02/10/20	Hong Kong	Hong Kong	female	62.0	0	0
+912	02/11/20	Hong Kong	Hong Kong	male	59.0	0	0
+913	02/11/20	Hong Kong	Hong Kong	female	60.0	0	0
+914	02/11/20	Hong Kong	Hong Kong	male	71.0	0	0
+915	02/11/20	Hong Kong	Hong Kong	male	37.0	0	0
+916	02/11/20	Hong Kong	Hong Kong	male	66.0	0	0
+917	02/11/20	Hong Kong	Hong Kong	female	37.0	0	0
+918	02/11/20	Hong Kong	Hong Kong	male	75.0	0	0
+919	02/12/20	Hong Kong	Hong Kong	male	51.0	0	0
+920	2/13/2020	Hong Kong	Hong Kong	male	43.0	0	0
+921	2/13/2020	Hong Kong	Hong Kong	female	67.0	0	0
+922	2/13/2020	Hong Kong	Hong Kong	male	37.0	0	0
+923	2/14/2020	Hong Kong	Hong Kong	female	41.0	0	0
+924	2/14/2020	Hong Kong	Hong Kong	male	70.0	1	0
+925	2/14/2020	Hong Kong	Hong Kong	female		0	0
+926	2/16/2020	Hong Kong	Hong Kong	male	54.0	0	0
+927	2/17/2020	Hong Kong	Hong Kong	male	69.0	0	0
+928	2/17/2020	Hong Kong	Hong Kong	male	45.0	0	0
+929	2/17/2020	Hong Kong	Hong Kong	female	46.0	0	0
+930	2/18/2020	Hong Kong	Hong Kong	female	32.0	0	0
+931	2/18/2020	Hong Kong	Hong Kong	male	58.0	0	0
+932	2/19/2020	Hong Kong	Hong Kong	female	83.0	0	0
+933	2/19/2020	Hong Kong	Hong Kong	female	83.0	0	0
+934	2/19/2020	Hong Kong	Hong Kong	male	68.0	0	0
+935	2/19/2020	Hong Kong	Hong Kong	female	70.0	0	0
+936	2/20/2020	Hong Kong	Hong Kong	male	75.0	0	0
+937	2/20/2020	Hong Kong	Hong Kong	female	38.0	0	0
+938	2/20/2020	Hong Kong	Hong Kong	male	58.0	0	0
+939	2/20/2020	Hong Kong	Hong Kong	male	48.0	0	0
+940	2/22/2020	Hong Kong	Hong Kong	female	96.0	0	0
+941	2/23/2020	Hong Kong	Hong Kong	male	68.0	0	0
+942	2/23/2020	Hong Kong	Hong Kong	male	62.0	0	0
+943	2/23/2020	Hong Kong	Hong Kong	female	80.0	0	0
+944	2/23/2020	Hong Kong	Hong Kong	female	76.0	0	0
+945	2/24/2020	Hong Kong	Hong Kong	male	35.0	0	0
+946	2/24/2020	Hong Kong	Hong Kong	female	57.0	0	0
+947	2/24/2020	Hong Kong	Hong Kong	female	68.0	0	0
+948	2/24/2020	Hong Kong	Hong Kong	female	59.0	0	0
+949	2/24/2020	Hong Kong	Hong Kong	female	58.0	0	0
+950	2/24/2020	Hong Kong	Hong Kong	male	57.0	0	0
+951	2/24/2020	Hong Kong	Hong Kong	female	57.0	0	0
+952	2/25/2020	Hong Kong	Hong Kong	male	33.0	0	0
+953	2/25/2020	Hong Kong	Hong Kong	female	55.0	0	0
+954	2/25/2020	Hong Kong	Hong Kong	male	24.0	0	0
+955	2/25/2020	Hong Kong	Hong Kong	female	60.0	0	0
+956	2/26/2020	Hong Kong	Hong Kong	female	49.0	0	0
+957	2/26/2020	Hong Kong	Hong Kong	female	21.0	0	0
+958	2/26/2020	Hong Kong	Hong Kong	male	16.0	0	0
+959	2/26/2020	Hong Kong	Hong Kong	male	80.0	0	0
+960	2/26/2020	Hong Kong	Hong Kong	female	29.0	0	0
+961	2/26/2020	Hong Kong	Hong Kong	male	26.0	0	0
+962	2/27/2020	Hong Kong	Hong Kong	female	70.0	0	0
+963	2/27/2020	Hong Kong	Hong Kong	female	89.0	0	0
+964	1/31/2020	Rome	Italy	male		0	0
+965	1/31/2020	Rome	Italy	female		0	0
+966	02/06/20	Rome	Italy	male	35.0	0	0
+967	1/31/2020	Tyumen	Russia	female		0	02/11/20
+968	1/31/2020	Zabaikalsky	Russia	male		0	02/12/20
+969	1/31/2020	York	UK			0	0
+970	1/31/2020	York	UK			0	0
+971	02/06/20	London	UK	male	53.0	0	2/15/2020
+972	02/09/20	London	UK			0	2/15/2020
+973	02/10/20	London	UK	male		0	2/15/2020
+974	02/10/20	London	UK	male		0	2/15/2020
+975	02/10/20	London	UK	male		0	2/15/2020
+976	02/10/20	London	UK	female		0	2/15/2020
+977	02/12/20	London	UK	female		0	0
+978	2/23/2020	UK	UK			0	0
+979	2/23/2020	UK	UK			0	0
+980	2/23/2020	UK	UK			0	0
+981	2/23/2020	UK	UK			0	0
+982	2/27/2020	London	UK			0	0
+983	2/27/2020	London	UK			0	0
+984	2/27/2020	Nortern Ireland	UK			0	0
+985	2/28/2020	UK	UK			0	0
+986	2/28/2020	UK	UK			0	0
+987	2/28/2020	Wales	UK	female		0	0
+988	2/28/2020	UK	UK	male		0	0
+989	1/30/2020	Kerala	India	female		0	0
+990	02/02/20	Alappuzha	India			0	0
+991	02/03/20	Kerala	India			0	0
+992	02/02/20	Manila	Phillipines	male	44.0	02/01/20	0
+993	02/02/20	Manila	Phillipines	female	38.0	0	02/08/20
+994	02/05/20	Phillipines	Phillipines	female	60.0	0	0
+995	1/29/2020	Lapland	Finland	female	32.0	0	0
+996	1/31/2020	Canary Islands	Spain	male		0	2/14/2020
+997	02/10/20	Mallorca	Spain	male		0	2/14/2020
+998	2/24/2020	Tenerife	Spain	male	69.0	0	0
+999	2/25/2020	Tenerife	Spain	female		0	0
+1000	2/25/2020	Barcelona	Spain	female	36.0	0	0
+1001	2/25/2020	Madrid	Spain		24.0	0	0
+1002	2/25/2020	Castellon	Spain	male	31.0	0	0
+1003	2/26/2020	Madrid	Spain			0	0
+1004	2/26/2020	Tenerife	Spain			0	0
+1005	2/26/2020	Tenerife	Spain			0	0
+1006	2/26/2020	Barcelona	Spain	male	22.0	0	0
+1007	2/26/2020	Andalusia	Spain	male	62.0	0	0
+1008	2/26/2020	Tenerife	Spain	female		0	0
+1009	2/27/2020	Valencia	Spain	male	44.0	0	0
+1010	2/27/2020	Madrid	Spain		77.0	0	0
+1011	2/27/2020	Madrid	Spain		50.0	0	0
+1012	2/27/2020	Barcelona	Spain	female	22.0	0	0
+1013	2/27/2020	Castile and Leon	Spain	male	30.0	0	0
+1014	2/27/2020	Castile and Leon	Spain		18.0	0	0
+1015	2/27/2020	Valencia	Spain	male		0	0
+1016	2/27/2020	Valencia	Spain	male		0	0
+1017	2/27/2020	Valencia	Spain	male		0	0
+1018	2/27/2020	Valencia	Spain	male		0	0
+1019	2/27/2020	Valencia	Spain	female		0	0
+1020	2/27/2020	Valencia	Spain	male		0	0
+1021	2/28/2020	Andalusia	Spain	male	28.0	0	0
+1022	2/28/2020	Andalusia	Spain	male	42.0	0	0
+1023	2/28/2020	Andalusia	Spain	male	53.0	0	0
+1024	2/28/2020	Andalusia	Spain		81.0	0	0
+1025	2/28/2020	Andalusia	Spain	male	55.0	0	0
+1026	2/28/2020	Andalusia	Spain	female	25.0	0	0
+1027	2/28/2020	Andalusia	Spain	male	58.0	0	0
+1028	2/28/2020	Madrid	Spain		66.0	0	0
+1029	2/28/2020	Zaragoza	Spain	female	27.0	0	0
+1030	1/31/2020	Jonkoping	Sweden	female	25.0	0	0
+1031	02/04/20	Belgium	Belgium			0	0
+1032	2/14/2020	Egypt	Egypt			0	2/19/2020
+1033	2/19/2020	Qom	Iran			2/19/2020	0
+1034	2/19/2020	Qom	Iran			2/19/2020	0
+1035	2/20/2020	Qom	Iran			2/21/2020	0
+1036	2/20/2020	Qom	Iran			2/21/2020	0
+1037	2/20/2020	Araq	Iran			0	0
+1038	2/21/2020	Qom	Iran			0	0
+1039	2/21/2020	Qom	Iran			0	0
+1040	2/21/2020	Qom	Iran			0	0
+1041	2/21/2020	Qom	Iran			0	0
+1042	2/21/2020	Qom	Iran			0	0
+1043	2/21/2020	Qom	Iran			0	0
+1044	2/21/2020	Qom	Iran			0	0
+1045	2/21/2020	Tehran	Iran			0	0
+1046	2/21/2020	Tehran	Iran			0	0
+1047	2/21/2020	Tehran	Iran			0	0
+1048	2/21/2020	Tehran	Iran			0	0
+1049	2/21/2020	Guilan	Iran			0	0
+1050	2/21/2020	Guilan	Iran			0	0
+1051	2/21/2020	Israel	Israel	female		0	0
+1052	2/21/2020	Lebanon	Lebanon	female	45.0	0	0
+1053	2/24/2020	Kuwait	Kuwait			0	0
+1054	2/24/2020	Kuwait	Kuwait			0	0
+1055	2/24/2020	Kuwait	Kuwait			0	0
+1056	2/24/2020	Kuwait	Kuwait			0	0
+1057	2/24/2020	Kuwait	Kuwait			0	0
+1058	2/25/2020	Kuwait	Kuwait			0	0
+1059	2/25/2020	Kuwait	Kuwait			0	0
+1060	2/25/2020	Kuwait	Kuwait			0	0
+1061	2/25/2020	Kuwait	Kuwait	female		0	0
+1062	2/24/2020	Bahrain	Bahrain			0	0
+1063	2/24/2020	Bahrain	Bahrain			0	0
+1064	2/25/2020	Bahrain	Bahrain	male		0	0
+1065	2/25/2020	Bahrain	Bahrain	female		0	0
+1066	2/25/2020	Bahrain	Bahrain	female		0	0
+1067	2/25/2020	Bahrain	Bahrain	female		0	0
+1068	2/25/2020	Bahrain	Bahrain	female		0	0
+1069	2/25/2020	Bahrain	Bahrain	female		0	0
+1070	2/25/2020	Bahrain	Bahrain	female		0	0
+1071	2/25/2020	Bahrain	Bahrain	female		0	0
+1072	2/25/2020	Bahrain	Bahrain	female		0	0
+1073	2/25/2020	Bahrain	Bahrain	female		0	0
+1074	2/25/2020	Bahrain	Bahrain	male		0	0
+1075	2/25/2020	Bahrain	Bahrain	male		0	0
+1076	2/25/2020	Bahrain	Bahrain	male		0	0
+1077	2/25/2020	Bahrain	Bahrain	female		0	0
+1078	2/25/2020	Bahrain	Bahrain	female		0	0
+1079	2/25/2020	Innsbruck	Austria		24.0	0	0
+1080	2/25/2020	Innsbruck	Austria		24.0	0	0
+1081	2/24/2020	Afghanistan	Afghanistan		35.0	0	0
+1082	2/26/2020	Algeria	Algeria	male		0	0
+1083	2/25/2020	Croatia	Croatia	male		0	0
+1084	2/25/2020	Bern	Switzerland	male	70.0	0	0
